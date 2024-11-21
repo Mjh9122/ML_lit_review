@@ -25,7 +25,7 @@ A collection of seminal ML papers which I plan on reading.
 [XGBoost: A Scalable Tree Boosting System](https://dl.acm.org/doi/abs/10.1145/2939672.2939785) (2016) (46701)  
 
 ## General NN Techniques
-[Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) (1986) (40430)  
+~~[Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0) (1986) (40430)~~  
 [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer,) (2014) (53832)  
 [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) (2015) (196295)  
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://asvk.cs.msu.ru/~sveta/%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82/batch_normalization.pdf) (2015)(58908)  
