@@ -1,5 +1,7 @@
-# ML_lit_review
-A collection of seminal ML papers which I plan on reading.
+# Machine Learning Literature Review
+A collection of seminal ML papers which I plan on reading and replicating to learn new techniques and develop deeper understanding of fundamental ones as well.  
+Project Started on 11/20/24.  
+1/20 Completed as of 11/21/2024.  
 
 # Papers
 
