@@ -16,7 +16,7 @@ Project Started on 11/20/24.
 
 ### NLP  
 [Long Short-term Memory](https://sophieeunajang.wordpress.com/wp-content/uploads/2020/10/lstm.pdf) (1997)*(115601)  
-~~[Efficient Estimation of Word Representations in Vector Space](https://www.khoury.northeastern.edu/home/vip/teach/DMcourse/4_TF_supervised/notes_slides/1301.3781.pdf) (2013) (44830)~~
+~~[Efficient Estimation of Word Representations in Vector Space](https://www.khoury.northeastern.edu/home/vip/teach/DMcourse/4_TF_supervised/notes_slides/1301.3781.pdf) (2013) (44830)~~  
 [Attention Is All You Need](https://user.phil.hhu.de/~cwurm/wp-content/uploads/2020/01/7181-attention-is-all-you-need.pdf) (2017) (141875)  
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)  
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) (2020) (48300)  
