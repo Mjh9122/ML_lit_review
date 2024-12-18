@@ -34,3 +34,11 @@ Project Started on 11/20/24.
 
 ### GANs
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)(2014)(74726)  
+
+
+## Medical Imaging Specific Papers
+[V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797) (2016) (11347)
+[Med3D: Transfer Learning for 3D Medical Image Analysis](https://arxiv.org/abs/1904.00625) (2019) (548)
+[Deep Learning and Medical Image Analysis for COVID-19 Diagnosis and Prognosis](https://pubmed.ncbi.nlm.nih.gov/35316609/)  (2021) (96)
+[Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999) (2018) (6663)
+[Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) (2015) (1472)
